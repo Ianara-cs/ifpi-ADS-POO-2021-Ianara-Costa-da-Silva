@@ -8,7 +8,7 @@ a = "2";
 // Letra B
 let b: any = 10;
 b = 2;
-/* Copilou pois a variável é do tipo any, no qual pode atribuir qualquer valor */
+/* Copilou pois a variável é do tipo any, no qual pode atribuir qualquer tipo de valor */
 
 // Letra C
 let c : number = 10;
