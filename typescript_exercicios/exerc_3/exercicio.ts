@@ -47,8 +47,8 @@ Etnia                                   sistema de cotas raciais                
 */
 
 /* Questão 4
- a) Não
- b) Sim. Condicional
+ a) Sim
+ b) Sim. Array
 */
 
 /* Questão 5
